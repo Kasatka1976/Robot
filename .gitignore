@@ -7,6 +7,5 @@
 *.iml
 out
 gen
-.idea/workspace.xml
 RobotSpring/src/test/
 RobotSpring/target/
