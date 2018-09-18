@@ -3,9 +3,10 @@
 ### Example user template
 
 # IntelliJ project files
-.idea
+#.idea
 *.iml
 out
 gen
 RobotSpring/src/test/
 RobotSpring/target/
+
