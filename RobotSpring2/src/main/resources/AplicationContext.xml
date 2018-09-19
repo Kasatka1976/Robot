@@ -3,14 +3,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="t1000" class="spring.impls.robot.ModelT1000"/>
-
-    <bean id="sonyHand" class="spring.impls.sony.SonyHand"/>
-    <bean id="sonyHead" class="spring.impls.sony.SonyHead"/>
-    <bean id="sonyHLeg" class="spring.impls.sony.SonyLeg"/>
-
-    <bean id="toschibaHand" class="spring.impls.toschiba.ToschibaHand"/>
-    <bean id="toschibaHead" class="spring.impls.toschiba.ToschibaHead"/>
-    <bean id="toschibaHLeg" class="spring.impls.toschiba.ToschibaLeg"/>
+    <bean id="t1000" class="spring.impls.robot.ModelT1000">
+    </bean>
 
 </beans>
