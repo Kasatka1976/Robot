@@ -7,7 +7,7 @@
 *.iml
 out
 gen
-RobotSpring/src/test/
-RobotSpring/target/
+RobotSpring2/src/test/
+RobotSpring2/target/
 
 
