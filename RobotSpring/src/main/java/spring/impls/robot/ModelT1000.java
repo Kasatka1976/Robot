@@ -31,6 +31,6 @@ public class ModelT1000 implements Robot {
     }
 
     public void dance() {
-        System.out.println("T1000 танцует");
+        System.out.println("T1000 танцует---");
     }
 }
