@@ -26,9 +26,6 @@ public class ModelT1000 implements Robot {
         leg.go();
     }
 
-    public void fire() {
-        System.out.println("T1000 стреляет");
-    }
 
     public void dance() {
         System.out.println("T1000 танцует 2---");
